@@ -87,6 +87,3 @@ Bachelor of Science in Information Technology
 - **Portfolio:** https://zenjee-portfolio.vercel.app/
 - **GitHub:** https://github.com/Zenjee00
 - **LinkedIn:** https://www.linkedin.com/in/zenjee-viel-borjal-590ab42a8/
-
----
-<p align="center"><em>Built around continuous learning, practical problem-solving, and thoughtful user experiences.</em></p>
