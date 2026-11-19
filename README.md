@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Zenjee Viel S. Borjal</h1>
+<p align="center"><strong>Full-Stack Web & Mobile Developer | UI/UX Design | Software Testing</strong></p><p align="center">
+  <a href="https://zenjee-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/Zenjee00">GitHub</a> •
+  <a href="https://www.linkedin.com/in/zenjee-viel-borjal-590ab42a8/">LinkedIn</a>
+</p>About Me
+I'm an Information Technology graduate from National University – Dasmariñas, specializing in Mobile and Web Applications. I focus on developing intuitive web and mobile applications, delivering full-stack solutions, creating responsive UI/UX interfaces, and automating workflows.
 
-<!--
-**Zenjee00/Zenjee00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about continuous learning, writing scalable code, and growing as a professional software engineer.
+- Development: Full-stack web and cross-platform mobile applications
+- Interests: Responsive UI/UX, backend integration, automation, and software quality
+- Current project: CourseNFound, an academic and career guidance web application
+Featured Projects
+CourseNFound — Academic & Career Guidance Web Application
+Role: Full-Stack Web Developer | Independent Project | Dec 2025 – Present
 
-Here are some ideas to get you started:
+An intelligent career assessment and university proximity platform designed to help students discover suitable degree programs and nearby educational institutions.
+- Built with React.js, Vite, Firebase, and Express.js, with Google OAuth, email verification, protected routes, and responsive interfaces.
+- Developed a 30-question assessment across 9 career domains using interest scoring, tie-breaker logic, and personalized degree recommendations.
+- Integrated LocationIQ, browser geolocation, and Haversine calculations to rank nearby universities and estimate travel distances.
+- Implemented 69 automated tests using Vitest, Playwright, and Firebase Emulator across unit, integration, security, and end-to-end workflows.
+Live Website | Project Repository
+TalkReady — Interactive English Proficiency Platform
+Role: Full-Stack Mobile Developer | Capstone Project | Apr 2025 – Oct 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An AI-powered training platform for aspiring call centre professionals, supporting conversational practice, speech assessments, and customer service simulations.
+- Developed a cross-platform application using Flutter and Dart.
+- Built a Trainer Portal for classroom management, quizzes, assessments, grading, and performance monitoring.
+- Integrated Firebase Authentication, Cloud Firestore, Realtime Database, and Cloud Functions for secure access, verification, and real-time synchronization.
+- Supported cross-device progress tracking, guided learning, and interactive dashboards.
+Project Repository
+Technical Skills
+Area	Technologies & Tools
+Languages	JavaScript, TypeScript, Dart, PHP, Java, Python, HTML5, CSS3
+Frameworks & Development	React.js, Flutter, Node.js, Express.js, Laravel, REST APIs
+Databases & Cloud	Firebase, Cloud Firestore, MySQL, Supabase, AWS, Google Cloud
+Testing & QA	Vitest, Playwright, Firebase Emulator
+Version Control & Tools	Git, GitHub, GitLab, VS Code, Android Studio, Vite, Vercel
+UI/UX & Design	Figma, Adobe Photoshop, Adobe Illustrator
+AI-Assisted Development	GitHub Copilot, Cursor, GitPilot
+
+
+Experience
+UI/UX Designer Intern — Colegio De Salitran Inc.
+Dec 2025 – Mar 2026 | Dasmariñas, Cavite
+- Designed event tarpaulins, enrollment banners, and ID templates using Adobe Photoshop and Illustrator.
+- Redesigned the school's website UI/UX with TypeScript and responsive layouts.
+- Integrated an EmailJS contact form to automate email inquiries.
+Technical Support Intern — TeamQuest Technology Inc.
+Apr 2026 – Jun 2026 | Dasmariñas, Cavite
+- Assisted users with account access, password recovery, and troubleshooting.
+- Organized and migrated Google Drive files and configured Google Forms.
+- Produced CapCut-based training videos from PowerPoint and instructional content for employee onboarding.
+Education & Certification
+National University – Dasmariñas
+Bachelor of Science in Information Technology
+Specialization: Mobile and Web Applications | Aug 2022 – Aug 2026
+
+Certification: PMI Project Management Ready
+Connect With Me
+- Portfolio: https://zenjee-portfolio.vercel.app/
+- GitHub: https://github.com/Zenjee00
+- LinkedIn: https://www.linkedin.com/in/zenjee-viel-borjal-590ab42a8/
+<p align="center"><em>Built around continuous learning, practical problem-solving, and thoughtful user experiences.</em></p>
